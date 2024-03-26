@@ -61,8 +61,13 @@ This project implements a regression model trained on a dataset containing medic
 
 ## Screenshots
 
-Add screenshots of the application here using the markdown syntax:
-
-```markdown
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
